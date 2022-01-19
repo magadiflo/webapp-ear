@@ -1,0 +1,6 @@
+org\magadiflo\webapp\ear\ejb\entities\Usuario.class
+org\magadiflo\webapp\ear\ejb\repositories\UsuarioRepositoryImpl.class
+org\magadiflo\webapp\ear\ejb\services\UsuarioServiceImpl.class
+org\magadiflo\webapp\ear\ejb\repositories\UsuarioRepository.class
+org\magadiflo\webapp\ear\ejb\ProducerResources.class
+org\magadiflo\webapp\ear\ejb\services\UsuarioServiceLocal.class

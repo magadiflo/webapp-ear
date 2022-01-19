@@ -23,7 +23,7 @@ public class ProducerResources {
     public void close(@Disposes EntityManager entityManager){
         if(entityManager.isOpen()){
              entityManager.close();
-            System.out.println(">>>>>>>>>>> ¡Cerrando conexion de EntityManager!");
+            System.out.println(">>>>>>>>>>> Cerrando conexion de EntityManager!");
         }
     }
 
